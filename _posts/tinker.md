@@ -1,0 +1,9 @@
+# How to use Tinker to generate inputs with force fields for Lammps simulations 
+
+* generate a tinker format xyz file
+	* ~/projects/bin-macos/pdbxyz file.pdb 
+* change the numeric types in the xyz file (to those in PRM )
+* ~/projects/bin-macos/minimize P4_CH3.xyz, with the PRM file  --> .xyz_2 
+* ~/projects/bin-macos/analyze P4_CH3.xyz_2 Moreno.prm P > out 
+*  remove the useless header ### in out 
+* python tinkertoLAMMPS.py 
