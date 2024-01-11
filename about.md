@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am now a Postdoc in the department of chemistry at University of Illinois at Urbana Champagin. I obtained a PhD in Materials Science and Engineering at Univeristy of Wisconsin-Madison in 2022. I am working on combining physics-based methods and machine learning techniques to model and understand materials, particularly focusing on glasses and polymer networks. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Please feel free to contact me if you have any questions about the blog contents or if you want to discuss the relevant science. I will reply soon as I see it. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[njuyuzheng@gmail.com](mailto:email@domain.com)

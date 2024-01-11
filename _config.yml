@@ -6,10 +6,10 @@
 name: Z. Yu' Blog
 
 # Short bio or description (displayed in the header)
-description: Test blogging
+description: Notes along with my research, particularly on computational methods, molecular dynamics, machine learning, etc. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars.githubusercontent.com/u/75448916?s=48&v=4
 
 #
 # Flags below are optional
@@ -30,6 +30,7 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+  googlescholar: https://scholar.google.com/citations?user=FSMA6bgAAAAJ&hl=en
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
