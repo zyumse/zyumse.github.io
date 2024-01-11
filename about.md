@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am now a Postdoc in the department of chemistry at University of Illinois at Urbana Champagin. I obtained a PhD in Materials Science and Engineering at Univeristy of Wisconsin-Madison in 2022. I am working on combining physics-based methods and machine learning techniques to model and understand materials, particularly focusing on glasses and polymer networks. 
+I am now a postdoc in the department of chemistry at University of Illinois at Urbana Champagin. I obtained a PhD in Materials Science and Engineering at Univeristy of Wisconsin-Madison in 2022. I am working on combining physics-based methods and machine learning techniques to model and understand materials, particularly focusing on glasses and polymer networks. 
 
 ### More Information
 
